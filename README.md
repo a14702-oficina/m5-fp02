@@ -1,3 +1,6 @@
+# Módulo 5 - Ficha de Trabalho FP02
+
+Este repositório contém a resolução da Ficha de Trabalho FP02 do Módulo 5, que abrange conceitos básicos de **HTML** para a criação de formulários e **PHP** para o processamento de dados submetidos e manipulação de estruturas de dados.
 ## Estrutura do Projeto
 
 O projeto é composto por dois ficheiros principais:
